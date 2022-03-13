@@ -1,4 +1,4 @@
-# impore os módulos time e playsound
+# importe os módulos time e playsound
 import time
 from playsound import playsound 
   
